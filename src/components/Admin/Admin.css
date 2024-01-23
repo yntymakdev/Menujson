@@ -1,0 +1,14 @@
+.create {
+  display: flex;
+  justify-content: center;
+  padding: 50px 0;
+  align-items: center;
+}
+.content {
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+  flex-direction: column;
+}
